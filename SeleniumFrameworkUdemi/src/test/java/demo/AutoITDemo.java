@@ -28,8 +28,7 @@ public class AutoITDemo {
 		String title = driver.getTitle().toString();
 		System.out.println("Title is: "+title+".");
 		
-		Thread.sleep(4000);
-		
+		Thread.sleep(4000);		
 	   
 	    // When an input is not clickable
 	    Actions builder = new Actions(driver);
@@ -45,5 +44,4 @@ public class AutoITDemo {
 		
 		System.out.println("Test Successfuly ended");		
 	}
-
 }
