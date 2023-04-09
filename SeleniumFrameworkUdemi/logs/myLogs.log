@@ -1,0 +1,4 @@
+2023-03-17 19:13:55.172 [main] INFO  demo.Log4jDemo - Info message
+2023-03-17 19:13:55.173 [main] WARN  demo.Log4jDemo - warning message
+2023-03-17 19:13:55.173 [main] ERROR demo.Log4jDemo - error message
+2023-03-17 19:13:55.174 [main] FATAL demo.Log4jDemo - fatal message

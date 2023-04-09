@@ -1,0 +1,4 @@
+ERROR	2023-03-15 17:32:41,494	1	demo.Log4jDemo	[main]	error message
+FATAL	2023-03-15 17:32:41,495	2	demo.Log4jDemo	[main]	fatal message
+ERROR	2023-03-15 19:20:35,317	0	demo.Log4jDemo	[main]	error message
+FATAL	2023-03-15 19:20:35,318	1	demo.Log4jDemo	[main]	fatal message
