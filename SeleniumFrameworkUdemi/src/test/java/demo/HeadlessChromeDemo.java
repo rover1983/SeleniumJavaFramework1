@@ -28,5 +28,4 @@ public class HeadlessChromeDemo {
 		System.out.println("The title of the tab is: "+title);
 		
 	}
-
 }

@@ -16,7 +16,6 @@ public class Log4jDemo {
 		logger.error("error message");		
 		logger.fatal("fatal message");
 		
-		System.out.println("\nFinish");		
-		
+		System.out.println("\nFinish");			
 	}
 }
