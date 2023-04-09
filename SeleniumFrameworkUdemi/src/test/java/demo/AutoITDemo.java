@@ -41,7 +41,7 @@ public class AutoITDemo {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		
+				
 		System.out.println("Test Successfuly ended");	
 	}
 }
