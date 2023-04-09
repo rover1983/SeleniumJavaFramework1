@@ -18,5 +18,4 @@ public class TestNGDependencyDemo {
 	public void test3() {
 		System.out.println("Method 3");
 	}
-
 }

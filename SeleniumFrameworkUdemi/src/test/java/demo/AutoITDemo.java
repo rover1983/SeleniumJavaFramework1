@@ -43,8 +43,7 @@ public class AutoITDemo {
 			e.printStackTrace();
 		}
 		
-		System.out.println("Test Successfuly ended");
-		
+		System.out.println("Test Successfuly ended");		
 	}
 
 }

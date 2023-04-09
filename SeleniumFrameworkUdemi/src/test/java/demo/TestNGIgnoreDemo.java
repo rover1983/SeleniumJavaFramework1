@@ -16,5 +16,4 @@ public class TestNGIgnoreDemo {
 	public void test2() {
 		System.out.println("Test 2");
 	}
-
 }
